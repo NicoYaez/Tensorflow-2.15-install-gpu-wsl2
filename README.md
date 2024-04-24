@@ -151,6 +151,6 @@ Inicia Jupyter Notebook:
 jupyter notebook
 ```
 
-Selecciona el entorno de ejecución entornoGPU dentro de Jupyter Notebook para utilizar TensorFlow con GPU.
+Selecciona el entorno de ejecución `entornoGPU` dentro de Jupyter Notebook para utilizar TensorFlow con GPU.
 
 ¡Listo! Ahora estás configurado para utilizar TensorFlow con GPU en tu entorno de desarrollo.
