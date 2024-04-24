@@ -1,2 +1,10 @@
-# Tensorflow-2.15-install-gpu-wsl2
-Instructions for installing CUDA v12.2 and cuDNN 8.9 on Ubuntu 22.04 for Tensorflow 2.15 GPU on WSL2
+# Tensorflow 2.15 install GPU wsl2
+Instrucciones para instalar CUDA v12.2 y cuDNN 8.9 en Ubuntu 22.04 para GPU Tensorflow 2.15 en WSL2
+
+## 1. Identificar tarjeta gráfica e instalar drivers
+  https://la.nvidia.com/Download/index.aspx?lang=la
+
+## 2. Instalar wsl desde el cmd
+```cmd
+wsl --install
+```
