@@ -137,7 +137,7 @@ Si la GPU no se detecta correctamente, asegúrate de haber seguido correctamente
 
 - Confirma que CUDA y cuDNN se hayan instalado correctamente y las variables de entorno estén configuradas adecuadamente.
 
-- Asegúrate de estar utilizando el entorno de Conda entornoGPU antes de ejecutar los comandos de TensorFlow.
+- Asegúrate de estar utilizando el entorno de Conda `entornoGPU` antes de ejecutar los comandos de TensorFlow.
 
 ## 6. Uso de TensorFlow con GPU
 Puedes utilizar TensorFlow con GPU en entornos como Visual Studio Code o Jupyter Notebook. Para ello:
